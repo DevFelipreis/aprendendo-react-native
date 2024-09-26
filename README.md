@@ -1,6 +1,3 @@
-﻿Aqui está um modelo de `README.md` para o seu projeto de aplicativo React Native. Você pode personalizá-lo conforme necessário:
-
-```markdown
 # E-Tech Collection
 
 E-Tech Collection é um aplicativo móvel desenvolvido com React Native e Expo, que permite aos usuários encontrar pontos de coleta de resíduos eletrônicos. O aplicativo apresenta uma interface amigável e funcionalidade para login, registro e visualização de locais de coleta.
