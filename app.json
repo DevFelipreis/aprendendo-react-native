@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Teste",
-    "slug": "Teste",
+    "name": "aprendendo-react-native",
+    "slug": "aprendendo-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

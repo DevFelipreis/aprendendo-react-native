@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import { Text, View, StyleSheet, Image } from 'react-native';
 import { FontSize } from '../utils/FontSize';
 import { Colors } from '../utils/Colors';
+import { FontType } from '../utils/FontType';
 
 function HomeScreen({ navigation }) {
     useEffect(() => {
@@ -35,6 +36,7 @@ const styles = StyleSheet.create({
         marginBottom: 20,
     },
     loadingText: {
+        fontFamily: FontType.mainTopic,
         fontSize: FontSize.large,
         color: Colors.primary,
     },
